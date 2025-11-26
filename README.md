@@ -1,0 +1,1 @@
+When uploading the Jupyter notebook to GitHub, the Bokeh plots are not rendered because GitHub only displays static outputs and does not execute the JavaScript needed for interactive Bokeh figures. The plots work correctly when the notebook is run locally in Jupyter, but on GitHub only static images (e.g. matplotlib or exported PNGs) can be displayed.
